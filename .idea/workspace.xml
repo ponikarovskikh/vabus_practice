@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea90e0ad-265c-4d01-9fc5-708b916edc7c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/boost_manager/.idea/boost_manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/boost_manager/IPHONE_LIST.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/boost_manager/Text_of_messages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/boost_manager/boost_db.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/boost_manager/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/boost_manager/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/boost_manager/devicelist.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/boost_manager/keyboards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/boost_manager/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/boost_manager/priorities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/boost_manager/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/boost_manager/russiandict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/boost_manager/salesbot.session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/boost_manager/schema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/boost_manager/seller_boost_db.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/boost_manager/sqlfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../developing/booster/pythonProject/ewwqe.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it pyth/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUPERJOBBOT/.idea/SUPERJOBBOT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRAINING PYTHON/.idea/Pract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Test12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aggregator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vabus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VKSARTPROJECT/.idea/VKSARTPROJECT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vkparsingbot/.idea/Vkparsingbot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amo/.idea/amo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonpractup/.idea/pythonpractup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testsheets/.idea/testsheets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toursbot/.idea/toursbot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/pythonPRoJ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/pythonPRoJ.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pract/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pract/.idea/Pract.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pract/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pract/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pract/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pract/230352030.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pract/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pract/donna.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pract/file.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pract/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pract/textus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practuc/gog.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practuc/textus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUPERJOBBOT/API_SJ_SQLUPDATE.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUPERJOBBOT/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUPERJOBBOT/bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUPERJOBBOT/cityids.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUPERJOBBOT/sjbase0.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TRAINING PYTHON/STEPIK.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/receips.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject2/.idea/pythonProject2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject2/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject2/botvac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject2/covidapi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject2/date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject2/examp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject2/parserbot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject2/tele.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject2/token.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2hElkRX0a49zMM00n1paA5i2ApO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea90e0ad-265c-4d01-9fc5-708b916edc7c" name="Changes" comment="" />
+      <created>1717167259489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717167259489</updated>
+      <workItem from="1717167265270" duration="9664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

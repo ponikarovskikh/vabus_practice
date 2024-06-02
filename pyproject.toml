@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "vabus_project"
+version = "0.1.0"
+description = "Проект для работы с событиями и метриками"
+authors = ["Ваше Имя <your.email@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+aiohttp = "^3.8.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
